@@ -1,30 +1,28 @@
 # 👋 Welcome to My GitHub Profile
 
-🚀 **Expert in Angular, RxJS, NgRx, NX, Material Design**
+🚀 **Fullstack Engineer Specializing in Angular & Node.js**
 
-Hi, I'm a Frontend Angular Expert with a Master's Degree in CyberSecurity, bringing extensive commercial experience in Angular development to the table.
+Hi, I'm a Fullstack Engineer with a Master's Degree in Cybersecurity, bringing extensive real-world experience in software development.
 
 ## 🚀 Skills & Expertise
 
-- **Languages & Frameworks:** JavaScript, TypeScript, Angular 2+, RxJS, NgRx
-- **Styling:** HTML5, SCSS/SASS
-- **UI Libraries:** Angular Material, PrimeNG, Bootstrap, AG-Grid, Chart.js, StoryBook
+- **Languages & Frameworks:** TypeScript, Angular 2+, Node.js, RxJS, NgRx, NestJS, Electron
+- **UI Libraries:** Angular Material, PrimeNG, Bootstrap, AG-Grid, Chart.js, Storybook, etc.
 - **Advanced Concepts:** Nx Monorepos, Module Federation, Micro Frontends
-- **Testing:** Unit/e2e testing (Jasmine, Cypress)
-- **Cloud & APIs:** Google Firebase, Google API
-- **Communication:** REST API, WebSockets
-- **DevOps:** CI/CD (Git, GitHub Actions, Heroku, Jenkins, etc.)
-- **Design Tools:** Figma, Zeplin, Adobe XD
+- **Testing:** Unit & E2E testing (Jest, Cypress, Playwright)
+- **Cloud & APIs:** Firebase, Google APIs, AWS, Heroku, etc.
+- **DevOps:** CI/CD (Git, GitHub Actions, CircleCI, Jenkins, Kubernetes, etc.)
 
-## 🧠 What Makes Me Stand Out?
+## 🧠 What Sets Me Apart?
 
-- **Team Player:** Ability to work in a team and independently
-- **Expertise:** Deep understanding of major development principles and patterns
-- **Quality Code:** I practice the SOLID approach and use the best practices for writing 100% reusable and maintainable code.
-- **Reliability:** Honest, efficient, and available almost 24/7.
+- **Collaborative:** Strong ability to work both independently and within a team
+- **Technical Depth:** Solid grasp of core development principles and architectural patterns
+- **Clean Code:** Committed to SOLID principles and writing highly reusable, maintainable code
+- **Versatile Style:** Comfortable writing both imperative and declarative code, with a preference for declarative approaches
+- **Dependable:** Reliable, proactive, and responsive
 
 ## 🤝 Let's Connect!
 
 - **[LinkedIn](https://www.linkedin.com/in/yuriy-lisik/)**
 
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or collaboration opportunities. Happy coding! 🎉
+Don’t hesitate to reach out for questions or collaboration opportunities. Happy coding! 🎉
